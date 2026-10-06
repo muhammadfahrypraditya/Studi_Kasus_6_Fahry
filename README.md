@@ -12,8 +12,7 @@
 ---
 
 
-
-# CODINGAN
+<h2 align="center">CODINGAN</h2>
 
 ```python
 import json
@@ -87,8 +86,8 @@ while True:
 
 ---
 
-# 📝 PENJELASAN KODE
-
+<h2 align="center">PENJELASAN KODE</h2>
+  
 <table>
 <tr>
 <th width="50%">Kode</th>
@@ -314,7 +313,7 @@ Program akan menampilkan pesan bahwa pilihan tidak valid dan kembali ke menu.
 
 ---
 
-# 📄 DATA BARANG
+<h2 align="center">DATA BARANG</h2>
 
 File yang digunakan dalam program adalah `data_barang.json`.
 
@@ -342,7 +341,7 @@ Contoh isi file:
 
 ---
 
-# 🖥️ HASIL OUTPUT PROGRAM
+<h2 align="center">OUTPUT</h2>
 
 ## 1. Menampilkan Data Barang
 
@@ -397,11 +396,3 @@ Masukkan screenshot yang menunjukkan bahwa barang yang baru ditambahkan masih mu
 Hal tersebut membuktikan bahwa data barang telah berhasil disimpan secara permanen ke dalam file `data_barang.json`.
 
 ---
-
-# 📌 KESIMPULAN
-
-Program Sistem Manajemen Inventaris Barang dibuat untuk membaca, menampilkan, dan menambahkan data barang menggunakan file JSON.
-
-Program menggunakan beberapa konsep dasar Python seperti `function`, `list`, `dictionary`, `for`, `while`, `if`, `input()`, `json.load()`, dan `json.dump()`.
-
-Data barang yang ditambahkan akan disimpan kembali ke dalam file JSON sehingga data tidak hilang ketika program dijalankan kembali.
