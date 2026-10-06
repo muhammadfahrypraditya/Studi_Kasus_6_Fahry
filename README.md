@@ -2,10 +2,11 @@
 
 <h2 align="center">SISTEM MANAJEMEN INVENTARIS BARANG</h2>
 
-<p align="center">
+<p align="left">
   <b>Nama:</b> Muhammad Fahry Praditya<br>
   <b>NIM:</b> 2609116104<br>
   <b>Kelas:</b> C
+  <b>Soal:</b> Genap
 </p>
 
 ---
